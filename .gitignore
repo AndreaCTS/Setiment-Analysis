@@ -1,4 +1,4 @@
-code/Canciones
+code/Canciones2
 code/Data_audios
 code/Spotify-to-mp3-python
 code/audio_features.npy
@@ -7,4 +7,30 @@ code/vect.joblib
 code/vect_tfidf.joblib
 code/logs.log
 code/audio_features
+project/
+tensorflow_env/
+code/modelos/
+code/modeloNoQ3Best/
+code/modeloNoQ3Best_v2/
+code/modeloNoQ3/
+code/modeloBestAllQ/
+code/cookies.txt
+code/cookiesY.txt
+code/Data_completa_enrriquecida.zip
+code/modeloBestAllQV2/
+code/modelo*
+code/features_extracted_final_second.zip
+code/features_extracted_final_second.csv
+code/features_extracted_final_third.csv
+code/features_extracted_final.csv
+code/features_extracted_lastTrue.csv
+code/features_extracted_lastTrue2.csv
+code/features_extracted_original.csv
+code/features_extracted.csv
+code/hf*
+code/labse*
+code/mi_grafica.png
+code/uris.txt
+code/www.youtube.com_cookies.txt
+code/features*
 
